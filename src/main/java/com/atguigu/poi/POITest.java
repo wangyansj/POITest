@@ -17,7 +17,7 @@ public class POITest{
 	public static void main1(String[] args) throws IOException {
 		//1.创建HSSFWorkBook对象
 		HSSFWorkbook workbook = new HSSFWorkbook();
-		
+		//good good study day day up!
 		//2.创建HSSFSheet对象
 		HSSFSheet sheet = workbook.createSheet("我的第一个工作表");
 		
